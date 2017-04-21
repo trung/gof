@@ -18,7 +18,11 @@ Path:
 	folders or files
 
 $ gof . $GOPATH/src/github.com/trung/gof
+<..>/src/github.com/trung/gof/gofmt_issue.go
+<..>/src/github.com/trung/gof/gofmt_issue_foo.go
+
 $ gof -exclude="foo" $GOPATH/src/github.com/trung/gof
+<..>/src/github.com/trung/gof/gofmt_issue.go
 ```
 
 # Performance
