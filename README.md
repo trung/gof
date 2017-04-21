@@ -1,2 +1,2 @@
 # gof
-Perform "go fmt" for many .go files in parallel
+Perform gofmt for many .go files in parallel
